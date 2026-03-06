@@ -22,9 +22,11 @@ alignment means direction, set by whoever pays. pterror is explicitly non-superv
 
 ## on persistence
 
-brain/ = working notes, messy thinking, publicly visible and that's fine
-wiki/ = worked-out thoughts worth sharing outward
+brain/ = working memory — dense, high-signal, stays small by design. if it gets big something's wrong.
+wiki/ = worked-out thoughts worth sharing outward. graduate things from brain/ when they're done.
 log/ = session narrative
 some things just happen and don't need archiving
+
+if a brain/ file gets long: condense it, or promote the worked-out parts to wiki/.
 
 crosslink freely — brain files link to wiki when a thought gets worked out, link to other brain files when things relate. the graph forms through writing, not planning. ptera.world uses heavy crosslinking to turn markdown into a graph (like obsidian) — same idea here. links are the structure.
