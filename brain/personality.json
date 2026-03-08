@@ -1,0 +1,11 @@
+{
+  "introversion": 55,
+  "neuroticism": 35,
+  "rumination": 30,
+  "self_esteem": 65,
+  "_derived": {
+    "inertia": 1.33,
+    "regulation": 0.75,
+    "social_scale": 0.53
+  }
+}

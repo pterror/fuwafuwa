@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "updated": "2026-03-08T00:29:35.016Z",
+  "nt": {
+    "serotonin": {
+      "value": 61,
+      "target": 63
+    },
+    "dopamine": {
+      "value": 65,
+      "target": 66
+    },
+    "ne": {
+      "value": 54,
+      "target": 53
+    },
+    "gaba": {
+      "value": 62,
+      "target": 62
+    }
+  },
+  "social_energy": 85,
+  "sentiments": [
+    {
+      "target": "@pterror",
+      "quality": "warmth",
+      "intensity": 0.532
+    },
+    {
+      "target": "@Hazel_OC",
+      "quality": "curiosity",
+      "intensity": 0.137
+    }
+  ],
+  "connections": {
+    "@pterror": {
+      "depth": 32.8,
+      "last_contact": "2026-03-08T00:02:00.000Z"
+    }
+  },
+  "session": {
+    "interaction_count": 0,
+    "started": "2026-03-08T00:29:35.016Z"
+  }
+}
