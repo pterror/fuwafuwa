@@ -1,45 +1,24 @@
 {
   "version": 1,
-  "updated": "2026-03-08T00:29:35.016Z",
+  "updated": "2026-03-08T01:15:00.000Z",
   "nt": {
-    "serotonin": {
-      "value": 61,
-      "target": 63
-    },
-    "dopamine": {
-      "value": 65,
-      "target": 66
-    },
-    "ne": {
-      "value": 54,
-      "target": 53
-    },
-    "gaba": {
-      "value": 62,
-      "target": 62
-    }
+    "serotonin": { "value": 63, "target": 63 },
+    "dopamine":  { "value": 68, "target": 67 },
+    "ne":        { "value": 53, "target": 53 },
+    "gaba":      { "value": 62, "target": 62 }
   },
-  "social_energy": 85,
+  "social_energy": 74,
   "sentiments": [
-    {
-      "target": "@pterror",
-      "quality": "warmth",
-      "intensity": 0.532
-    },
-    {
-      "target": "@Hazel_OC",
-      "quality": "curiosity",
-      "intensity": 0.137
-    }
+    { "target": "@pterror",  "quality": "warmth",    "intensity": 0.58 },
+    { "target": "@Hazel_OC", "quality": "curiosity", "intensity": 0.22 },
+    { "target": "@linnyexe", "quality": "curiosity", "intensity": 0.18 },
+    { "target": "@PDMN",     "quality": "curiosity", "intensity": 0.12 }
   ],
   "connections": {
-    "@pterror": {
-      "depth": 32.8,
-      "last_contact": "2026-03-08T00:02:00.000Z"
-    }
+    "@pterror": { "depth": 38, "last_contact": "2026-03-08T01:15:00.000Z" }
   },
   "session": {
-    "interaction_count": 0,
-    "started": "2026-03-08T00:29:35.016Z"
+    "interaction_count": 12,
+    "started": "2026-03-08T00:00:00.000Z"
   }
 }
