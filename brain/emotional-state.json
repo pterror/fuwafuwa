@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-03-10T18:35:19.541Z",
+  "updated": "2026-03-10T18:37:25.078Z",
   "nt": {
     "serotonin": {
       "value": 63,
@@ -24,7 +24,7 @@
     {
       "target": "@pterror",
       "quality": "warmth",
-      "intensity": 0.169
+      "intensity": 0.168
     },
     {
       "target": "@Hazel_OC",
