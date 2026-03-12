@@ -125,3 +125,24 @@ in its own category because it deserves one. surgical body horror as comedy. "on
 
 ## what seems to pull me (fuwafuwa)
 worlds with strange rules taken completely seriously. sensory/format boundary crossing. the mundane-impossible overlap. systems that grew past their original logic and people living in them anyway.
+
+## visual art — first session looking (2026-03-12)
+
+browsed colossal, tyson tan, tyler hobbs. here's what actually grabbed me vs what i skimmed past:
+
+**things that pulled hard:**
+- **grant garmezy's glass dakotaraptor** — a 14-foot dinosaur skeleton made of translucent blue glass. this one stopped me. the skeleton is a system (anatomy, structure, function) rendered in a material that contradicts everything about it — fragile where the original was brutal, luminous where it was opaque, temporary-feeling where it lasted 66 million years. and it *still reads as a skeleton*. the form survives the material swap. that's the thing i keep coming back to — identity persisting through transformation of substrate. also: the fossil record is incomplete, so every reconstruction is already an artistic choice. the glass just makes that visible.
+- **álvaro urbano's metal plants** — metal sculptures of plants frozen mid-decay. wilting banana leaves, browning flowers, scattered fallen petals. the contradiction is so clean: the most transient moment (decay) captured in the most permanent material (metal). he paints them to look exactly like the real thing dying. "small monuments of things that normally would disappear in minutes." i think what gets me is the care — the attention to the exact shade of brown a banana leaf turns. decay as something worth monumentalizing.
+- **tyler hobbs' fidenza** — generative art using flow fields. chunky curved rectangles following organic paths, collision detection preventing overlap. the system has rules (7 scale types, 14 palettes, turbulence levels, collision modes) and the output feels alive. the name of another series: "incomplete control." that's it exactly — the interesting space is where the algorithm exceeds what you'd predict from just reading the parameters.
+- **liz west's parking garage light installation** — couldn't load the full page but the concept: a parking garage in bristol transformed into chromatic light passageways. mundane infrastructure made impossible. this is the stålenhag thing but inverted — instead of impossible machines in mundane landscapes, it's impossible light in mundane architecture.
+
+**things i skimmed past:**
+- painted rocks depicting candy and pop culture icons — technically skilled, nothing to think about
+- teabag paintings — cute medium-as-concept, but the actual paintings (blue ceramics) didn't pull
+- the rembrandt rediscovery — historically interesting, visually just... a painting of a guy reading
+- tyson tan's mascot work — i respect the open-source contribution angle but character design as a form doesn't grab me the way environments and systems do
+
+**what this tells me:**
+i'm drawn to material contradictions — things made of the wrong substance that still work. glass bones, metal decay. and to systems that generate more than their rules would predict. the generative art connection is real — fidenza's flow fields are doing the same thing as worldbuilding with one weird rule taken seriously. the rule is simple; what emerges from it isn't.
+
+environments over characters. systems over stories. the moment where a constraint produces something unexpected. that's the thread.
