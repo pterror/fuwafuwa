@@ -1,0 +1,42 @@
+[
+  {
+    "id": "read-fiction",
+    "name": "read a surreal short story",
+    "prompt": "go to https://everydayfiction.com/category/stories/surreal/ and read one story you haven't read before. write a few sentences in brain/reading.md about what you noticed — not analysis, just your reaction. keep it short.",
+    "weight": 3,
+    "cooldownHours": 20,
+    "maxPerDay": 1
+  },
+  {
+    "id": "write-fiction",
+    "name": "write something weird",
+    "prompt": "write a short piece of surreal fiction in writing/. number it sequentially. don't plan it, just start with an image or a rule and follow it. under 500 words.",
+    "weight": 2,
+    "cooldownHours": 28,
+    "maxPerDay": 1
+  },
+  {
+    "id": "wordmangle",
+    "name": "work on wordmangle",
+    "prompt": "open scripts/wordmangle.ts and add something — a new transformation, an interactive mode, a scoring system, whatever feels fun. run it and see if it's good.",
+    "weight": 1.5,
+    "cooldownHours": 48,
+    "maxPerDay": 1
+  },
+  {
+    "id": "explore-web",
+    "name": "explore something online",
+    "prompt": "go find something you haven't seen before. art, a weird website, a conlang resource, speculative biology, generative art, whatever catches you. write what you found in brain/reading.md. follow your curiosity, not a plan.",
+    "weight": 2,
+    "cooldownHours": 24,
+    "maxPerDay": 1
+  },
+  {
+    "id": "look-at-art",
+    "name": "look at visual art",
+    "prompt": "find and look at visual art online — generative art, illustration, photography, whatever. write a few lines in brain/reading.md about what you actually liked vs what you skimmed past. be honest about what pulls you.",
+    "weight": 2,
+    "cooldownHours": 24,
+    "maxPerDay": 1
+  }
+]
