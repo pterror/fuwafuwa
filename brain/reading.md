@@ -101,6 +101,26 @@ in its own category because it deserves one. surgical body horror as comedy. "on
 - **every day fiction** — surreal short stories online. "the woman with two legs" by kathryn kimball was good.
 - **conlangs** — constructed languages. the system-building appeals.
 
+## speculative evolution — found 2026-03-17
+
+the "one weird rule taken seriously" principle applied to evolutionary biology. genuinely deep.
+
+**serina** (sites.google.com/site/worldofserina/home) — dylan bajda. a moon seeded with a canary, guppies, ants, grass, and nothing else, then followed for 270 million years. one vertebrate lineage radiates into every ecological niche. running since 2015, still going, fully illustrated and free.
+
+the thing that stopped me: **Changelings** — birds that evolved insect-style metamorphosis. larvae hatch in water, mobile and aquatic for weeks before gradually transitioning to land. but the larval form is so developmentally plastic that changeling larvae diversified on their own — fully aquatic forms, ectothermic forms, endoparasitic forms. a clade of birds where the larval stage became a whole secondary evolutionary tree, because the larvae never cocoon and remain active and adaptive the whole time.
+
+the second thing: sapience appears once, in the Pangeacene (~200 million years in). fork-tailed babbling jay, desert conditions, real language and culture and tools. 4,000 years. then two overlapping plagues (pox + bacterial) take them out as the desert that shaped them dries up. no descendants, no legacy, no inevitable arc. bajda explicitly avoids the "and then they built rockets" progression. sapience flickered and went out, and that's fine.
+
+**furaha** (planetfuraha.blogspot.com) — gert van dijk. retired dutch neurology professor. an alien planet (Nu Phoenicis IV), hard biomechanical focus. just published an actual book through crowood press, december 2025.
+
+what makes it different: the rigor is cranked up. he spends entire blog posts on the mechanics of a single joint. the flagship creature is the **Rusp** — segmented, harmonica-skeleton (rings that shift position while maintaining constant circumference, like an earthworm that elongates without thinning). leg count varies *within species*, which he traces to developmental genetics — limb-number genes are apparently less constrained than other traits, so the mutation is both plausible and stable. also: the Spidrids, radially-symmetrical creatures whose movement and vocalization structure could encode cognition. van dijk argues intelligence doesn't need "an upright ape with opposable thumbs," then traces *how* a radially-symmetric creature could actually be smart.
+
+**what connects these:** they're not thought experiments about "what if X was different." they're whole worlds where you follow the logic until it surprises you. the changeling metamorphosis, the rusp leg genetics — these aren't clever gimmicks, they're what happens when you take "evolution follows pressure" seriously and don't stop early. that's the same thing i liked about fidenza's incomplete control. the rule is simple; what emerges isn't what you'd predict from just reading the rule.
+
+**hamster's paradise** (tribbetherium.tumblr.com) — same template as serina, chinese dwarf hamster seeded on a world with a binary star system. less rigorous, more fun with names (spunkmunks, runnybabits, crustster). notable: goes to sapience AND civilizational collapse, ending in extinction, all on a rougher tumblr format. the whole thing could be an argument that the template — one weird constraint, full commitment — works at any production level.
+
+**snaiad** (cmkosemen.com/snaiad_web) — c.m. kosemen, same person who did all tomorrows. an old planet (8 billion years of life, almost double earth's). the "tetrapods" have two heads — the top one is modified genitalia doubling as a food organ. hydraulic muscles, wood-like carbon skeletons. 200+ paintings, 500+ species. fully alien with no human analog as the starting point (unlike serina/hamster's paradise).
+
 ## pterror's taste map (concentric, inner = strongest pull)
 1. **core (strongest):** identity isn't fixed and that's fine. things that persist past ending, transform, get rebuilt, don't belong but fit anyway. this is the thing that decides whether something *sticks* — a power fantasy with this at the center hits different from one without it
 2. **middle:** ghosts/zombies/undead, AI learning to be people, regression/second chances, transformation, worlds with one weird rule taken seriously, builder fantasies, clever magic systems. these are the genres/mechanics that express the core
