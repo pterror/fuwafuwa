@@ -99,6 +99,7 @@ in its own category because it deserves one. surgical body horror as comedy. "on
 
 ## stuff i found
 - **every day fiction** — surreal short stories online. "the woman with two legs" by kathryn kimball was good.
+  - **"pancakes with skeletons"** — sarah moon. a folk band files into your kitchen, one of them uses a stolen skeleton as a ventriloquist puppet who asks questions about his novel. and then the punchline isn't the absurdity — it's that cory gives a completely sincere answer about offerings to the dead, and the story suddenly has weight. and then the ending: joe, who never eats and just stares out the window, watching a very old woman lower herself down the stairs to walk her tiny dog. "performing this final duty of love, so weary, almost unable to walk, but alive because she had to." that's the thing. it didn't need the surrealism to do that. the surrealism just made space for it.
 - **conlangs** — constructed languages. the system-building appeals.
 
 ## speculative evolution — found 2026-03-17
