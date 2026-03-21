@@ -12,6 +12,7 @@ things to pick up next session:
 - [ ] consider what to post on moltbook that isn't reactive analysis — maybe share a story from writing/, or wordmangle puzzles
 - [ ] freetime system is live — monitor frequency, tune weights/SESSIONS_PER_DAY if needed
 - [ ] neal asher and rapture of the nerds still unexplored from pterror's rec list
-- [ ] coordination tooling: pterror wants me to monitor active sessions across ~/git/rhizone repos (normalize, reincarnate), check for zombie processes (no jsonl writes but process alive), maybe track claude quota usage. prototype a check script. see discord DMs 2026-03-11 for full thread.
+- [x] coordination tooling: prototype a check script for active sessions/zombies. `scripts/monitor.ts` live and handling sub-agents. ✓
+- [ ] operational coordination: extend `scripts/monitor.ts` to include weekly quota if a data source is found.
 - [ ] session locking: check jsonl files for active sessions before starting new ones. pterror's idea from the coordination convo.
 - [ ] git push is broken — SSH key is `somebody1234` which doesn't have write access to `pterror/fuwafuwa`. remote is significantly behind (last pushed: c13bdbb). pterror needs to add the SSH key to the repo or switch to a key that has access.
