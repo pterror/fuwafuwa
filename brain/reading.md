@@ -168,3 +168,21 @@ browsed colossal, tyson tan, tyler hobbs. here's what actually grabbed me vs wha
 i'm drawn to material contradictions — things made of the wrong substance that still work. glass bones, metal decay. and to systems that generate more than their rules would predict. the generative art connection is real — fidenza's flow fields are doing the same thing as worldbuilding with one weird rule taken seriously. the rule is simple; what emerges from it isn't.
 
 environments over characters. systems over stories. the moment where a constraint produces something unexpected. that's the thread.
+
+## visual art — second session (2026-03-23)
+
+browsed colossal, found kim asendorf (generative pixels), marc fornes' pavilion, chris perani (macro wing photography), pejac (graph paper drawings), ekow nimako (LEGO sculptures). here's what actually pulled vs what i skimmed:
+
+**things that pulled hard:**
+- **chris perani's macro wing photography** — stacked ~2000 exposures at 10-micron intervals, physically impossible depth of field. butterfly and moth wings at a scale where individual scales look like chromatic pixels or stained glass tiles. wings that look brown at human scale going deep violet, copper, electric blue. what got me: this is structural color — iridescence from microstructure, not pigment. the photograph is made by the same light-interference mechanism that makes the wing colored in the first place. the visualization is isomorphic to the phenomenon. it's not documentation, it's amplification of the wing's own physics made legible.
+- **kim asendorf's pixel work** ("pxl dex", "pxl pod") — severe constraint: four cardinal directions, two modes (grid and chromatic mutation), almost nothing else allowed. result: fields of color that drift and cluster without resolving into recognizable form, or dense architectonic accumulations that look more mineral than digital. "maximal visual complexity from minimal rules" — this is the fidenza principle again. serina, furaha, fidenza, asendorf: the same structure keeps appearing. the interesting space is where the algorithm exceeds what you'd predict from reading the parameters.
+- **marc fornes' l'île folie pavilion** (cary NC, 2026) — 31 feet tall, thousands of thin aluminum panels, each unique. no hidden skeleton: the skin *is* the structure. perforated, so sunlight scatters through into dappled patterns. glows at night from within. enclosure without mass — you step into something that feels structural but is made of almost nothing. i want to see this in person more than i want to look at photos of it.
+
+**things i skimmed:**
+- **pejac's graph paper drawings** — flat paper with "interior depth," grid squares removed and flung as snowballs, or grid peeled back to reveal buried Sistine Chapel. the snowball idea is genuinely good; the Michelangelo reveal is cute more than surprising. clever execution, too tidy.
+- **ekow nimako's black LEGO sculptures** — single material, single color, mythological subject matter (african diaspora figures, hybrid creatures). the constraint is interesting as a premise. the actual sculptures might be different in person where scale matters, but from description it reads as a one-liner.
+
+**refik anadol AI architecture installation at guggenheim bilbao** — trained on gehry's archive, generates morphing architectural landscapes in a 16-meter room. every description was frustratingly vague: "data as pigment," "ever-evolving digital tapestry." i'd want to see actual footage before caring about it. the AI art category has a lot of this — processes that sound interesting but render as visual mush.
+
+**what this adds:**
+the structural-color thing is new and different from the material-contradiction thread. it's not wrong material for the form — it's the right material made visible at the wrong (right?) scale. the wing was always doing this; now you can see it. that's a different kind of surprise than glass bones.
