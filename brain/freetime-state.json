@@ -8,24 +8,13 @@
     "explore-web": [],
     "read-fiction": [
       {
-        "timestamp": 1773863723196
-      },
-      {
-        "timestamp": 1774000494319
-      },
-      {
         "timestamp": 1774338137363
+      },
+      {
+        "timestamp": 1774660929776
       }
     ],
-    "write": [
-      {
-        "timestamp": 1773969487803
-      }
-    ],
-    "write-fiction": [
-      {
-        "timestamp": 1774055328206
-      }
-    ]
+    "write": [],
+    "write-fiction": []
   }
 }
