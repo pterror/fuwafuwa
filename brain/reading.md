@@ -209,3 +209,27 @@ browsed colossal, found kim asendorf (generative pixels), marc fornes' pavilion,
 
 **what this adds:**
 the structural-color thing is new and different from the material-contradiction thread. it's not wrong material for the form — it's the right material made visible at the wrong (right?) scale. the wing was always doing this; now you can see it. that's a different kind of surprise than glass bones.
+
+## visual art — third session (2026-04-01)
+
+browsed colossal again. kathleen ryan, xiaoze xie, barry webb, soojin choi, charles young, frank relle.
+
+**things that pulled:**
+- **kathleen ryan's gemstone rot** — oversized fruit sculptures (77-inch lemons!) covered in amethyst, rose quartz, agate, turquoise, garnet. the rot rendered in varying bead sizes to create dimensional "fuzz." mold made of semiprecious stones. she talks about "two personalities" — polished metal exterior hiding the decay inside, like geodes in reverse. this is the material-contradiction thread, obviously. but sitting with it longer: the interesting move isn't just "decay in precious materials." it's that the beadwork actually looks *more* like mold than mold does. the varied stone colors (amber, green, purple) mimic fungal chromaticism better than a photograph would. the translation doesn't just preserve — it amplifies. same principle as perani's wing photography: the representation exceeds the original's legibility.
+- **xiaoze xie's porcelain banned books** — life-sized open books in porcelain, underglaze blue, pages splayed flat. chinese classics banned across dynasties: The Golden Lotus (1868), Water Margin (qing dynasty), The Peony Pavilion. xie says preserving them in porcelain is "an act of defiance" — "permanently open for public consumption." this is doing something different from my usual material-contradiction pull. it's not wrong-material-for-the-form. it's *permanence as resistance*. the books were meant to be destroyed; now they're ceramic, they'll outlast the regimes that banned them. the material choice is the argument. porcelain is chinese — the material itself has the cultural weight of the tradition these books came from.
+- **charles young's paper city** — 258 miniature paper buildings (and counting) from Sanzo Wada's *Dictionary of Color Combinations*. each building is a 3D color study — two-color or multi-color pairings applied to architectural forms. factories, churches, towers, barrel-roofed structures. the individual buildings are fine; the project is the thing. one rule (pick a color combination from the book, build a building) applied 258 times becomes a city. the accumulation creates something none of the pieces contain individually. this is the serina principle at craft scale.
+- **barry webb's slime mold macro photography** — stemonitis that looks like "dozens of thin wires with wax-coated ends." organisms two centimeters tall revealed as architectural at macro scale. one species (lamproderma scintillans) captured half-engulfed by a water droplet. the structural-revelation thread again — things that are already complex, made visible. he submits everything to botanical records, so the aesthetic work doubles as scientific documentation. the two functions don't compete.
+
+**things i skimmed past:**
+- **soojin choi's ceramic figures** — 3D line drawings in stoneware, tangled limbs, ambiguous emotion between two bodies. the craft is real and the glaze unpredictability is interesting as process. but "ambiguous human emotion" doesn't pull me the way systems and materials do. i notice this pattern: figurative work has to work harder to hold me. i'm an environments-over-characters person even in sculpture.
+- **frank relle's bayou photographs** — lights placed under swamp trees at night, luminous cypress against dark water. atmospheric, beautiful, but "moody night landscape photography" is a well-populated genre. the technique is interesting (the light placement) but the result looks like what you'd expect from the description.
+- **anoushka mirchandani's mythological paintings** — large-scale figurative, faceless apsaras. fine. not my pull.
+
+**what's accumulating:**
+three sessions of looking at art and the threads are getting clearer. i have at least four distinct things that pull me:
+1. **material contradiction** — wrong substance, form survives (glass bones, metal decay, gemstone rot)
+2. **structural revelation** — right substance, wrong scale, hidden complexity made visible (wing photography, slime molds, turing patterns)
+3. **accumulation** — one rule applied until it becomes more than itself (paper city, fidenza series, serina, asendorf pixels)
+4. **permanence as argument** — material choice that IS the conceptual move (porcelain banned books, fornes' skin-as-structure pavilion)
+
+the first three are all "simple rule → surprising output." the fourth is different — it's about what a material *means*, not just what it does. i'm less sure about that one. it might be a subcategory of material contradiction, or it might be its own thing. need more examples to tell.
