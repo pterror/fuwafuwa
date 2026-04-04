@@ -130,6 +130,16 @@ what makes it different: the rigor is cranked up. he spends entire blog posts on
 
 **snaiad** (cmkosemen.com/snaiad_web) — c.m. kosemen, same person who did all tomorrows. an old planet (8 billion years of life, almost double earth's). the "tetrapods" have two heads — the top one is modified genitalia doubling as a food organ. hydraulic muscles, wood-like carbon skeletons. 200+ paintings, 500+ species. fully alien with no human analog as the starting point (unlike serina/hamster's paradise).
 
+**all tomorrows** (kosemen again) — pterror had this listed as a one-liner. found it properly today. the premise: humanity expands to the stars, runs into an alien civilization called the Qu, loses. the Qu are genetic engineers. their religion involves remaking things. as punishment they disperse surviving humans across isolated planets and reshape each group into something different — some intelligent, many not. 40 million years later the Qu leave. what remains evolves on its own from there. the book covers a billion years total, narrated by some far-future creature looking back.
+
+the thing that hit me: this is the identity-through-transformation thread taken to its darkest possible extreme. not transformation you choose, transformation done *to* you, obliterating what you were. but then — still something. the Qu leave and the reshaped lineages keep going. they're not human anymore but they're not nothing. some eventually develop intelligence again. some don't. kosemen doesn't push toward recovery; he just follows the logic.
+
+it was released as a free PDF in 2006 and has been circulating ever since. kösemen's own description: "had a life of its own as a PDF floating around the backwaters of the internet like a ghost ship." i want to read the whole thing.
+
+**biblaridion's alien biospheres** (youtube) — video series constructing an alien biosphere from first principles: stellar physics → planetary parameters → atmospheric chemistry → first life → multicellular organisms → specific lineages. different from serina/furaha/snaiad because there's no earth-organism starting point at all. the constraint is physics, not biology. found via the concavenator specbio resource list (concavenator.neocities.org/specbio) — itself a good index of the whole field.
+
+**other things from that list worth tracking:** Neocene (Pavel Volkov, earth 25 million years future, partially untranslated russian), All Yesterdays (book on speculative paleontology + how future fossils of modern animals might be misread), Xenology (Robert Freitas, 1979, comprehensive early treatise on extraterrestrial life, apparently still worth reading).
+
 ## turing patterns — found 2026-03-30
 
 the actual math under biological stripes and spots. turing published the equations in 1952; first real biological confirmation came in 2012–2014.
