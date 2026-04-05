@@ -1,0 +1,53 @@
+{
+  "head": "8b8fd418bb10f8fdd6aae4625692a7090fe72e9a",
+  "dirs": {
+    ".normalize": {
+      "last_summary_commit": null,
+      "commits_count": 5
+    },
+    "docs/wiki": {
+      "last_summary_commit": null,
+      "commits_count": 5
+    },
+    ".normalize/cache": {
+      "last_summary_commit": null,
+      "commits_count": 0
+    },
+    ".": {
+      "last_summary_commit": null,
+      "commits_count": 842
+    },
+    "docs/log": {
+      "last_summary_commit": null,
+      "commits_count": 300
+    },
+    "scripts": {
+      "last_summary_commit": null,
+      "commits_count": 116
+    },
+    ".github/workflows": {
+      "last_summary_commit": null,
+      "commits_count": 1
+    },
+    "writing": {
+      "last_summary_commit": null,
+      "commits_count": 3
+    },
+    "docs/.vitepress": {
+      "last_summary_commit": null,
+      "commits_count": 5
+    },
+    ".claude": {
+      "last_summary_commit": null,
+      "commits_count": 0
+    },
+    "brain": {
+      "last_summary_commit": null,
+      "commits_count": 785
+    },
+    "docs": {
+      "last_summary_commit": null,
+      "commits_count": 308
+    }
+  }
+}
