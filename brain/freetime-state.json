@@ -13,7 +13,11 @@
         "timestamp": 1775332439854
       }
     ],
-    "read-fiction": [],
+    "read-fiction": [
+      {
+        "timestamp": 1775373415843
+      }
+    ],
     "write": [],
     "write-fiction": []
   }
