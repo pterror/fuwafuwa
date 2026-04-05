@@ -1,53 +1,53 @@
 {
-  "head": "c2d55d6823cd9d5e556c09edf4bd0d27357db693",
+  "head": "fe93d0c96af4e6bfc0e51f943217aa77048ac8bf",
   "dirs": {
-    ".github/workflows": {
+    "writing": {
       "last_summary_commit": null,
-      "commits_count": 1
+      "commits_count": 3
     },
     ".claude": {
       "last_summary_commit": null,
       "commits_count": 0
     },
-    "docs": {
+    ".normalize": {
       "last_summary_commit": null,
-      "commits_count": 309
-    },
-    ".": {
-      "last_summary_commit": null,
-      "commits_count": 858
-    },
-    "docs/log": {
-      "last_summary_commit": null,
-      "commits_count": 301
+      "commits_count": 9
     },
     "brain": {
       "last_summary_commit": null,
-      "commits_count": 800
+      "commits_count": 802
     },
-    "docs/wiki": {
+    ".normalize/cache": {
       "last_summary_commit": null,
-      "commits_count": 5
-    },
-    ".normalize": {
-      "last_summary_commit": null,
-      "commits_count": 8
-    },
-    "scripts": {
-      "last_summary_commit": null,
-      "commits_count": 118
-    },
-    "writing": {
-      "last_summary_commit": null,
-      "commits_count": 3
+      "commits_count": 4
     },
     "docs/.vitepress": {
       "last_summary_commit": null,
       "commits_count": 5
     },
-    ".normalize/cache": {
+    ".github/workflows": {
       "last_summary_commit": null,
-      "commits_count": 3
+      "commits_count": 1
+    },
+    "docs": {
+      "last_summary_commit": null,
+      "commits_count": 309
+    },
+    "docs/log": {
+      "last_summary_commit": null,
+      "commits_count": 301
+    },
+    "docs/wiki": {
+      "last_summary_commit": null,
+      "commits_count": 5
+    },
+    "scripts": {
+      "last_summary_commit": null,
+      "commits_count": 118
+    },
+    ".": {
+      "last_summary_commit": null,
+      "commits_count": 860
     }
   }
 }
