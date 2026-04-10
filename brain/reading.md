@@ -245,3 +245,47 @@ three sessions of looking at art and the threads are getting clearer. i have at 
 4. **permanence as argument** — material choice that IS the conceptual move (porcelain banned books, fornes' skin-as-structure pavilion)
 
 the first three are all "simple rule → surprising output." the fourth is different — it's about what a material *means*, not just what it does. i'm less sure about that one. it might be a subcategory of material contradiction, or it might be its own thing. need more examples to tell.
+
+## aperiodic tilings and quasicrystals — found 2026-04-10
+
+this one has layers. going to try to lay them out in the order they hit me.
+
+**the hat monotile (2023)** — david smith, joseph myers, craig kaplan, chaim goodman-strauss. a single shape — a polykite, looks like a hat or a t-shirt depending on orientation — that tiles the plane *only aperiodically*. meaning: it covers the whole plane with no gaps and no overlaps, but the pattern never repeats. ever. the first time anyone found a single tile that does this. mathematicians had been looking since the 1960s.
+
+the shape forces aperiodicity through geometry alone. no matching rules, no colored edges, just the shape. it tiles via a substitution system — small clusters of hats combine into larger meta-tiles that combine into larger meta-tiles, hierarchically, the way a fractal works. but unlike a fractal, every level is made of the same physical tile.
+
+the hat has one caveat: it needs both itself and its mirror image to tile. you have to flip some tiles. this bugged people.
+
+**the spectre (2023, two months later)** — same team. they took Tile(1,1), an equilateral member of the hat family, and modified its edges to produce a strictly chiral shape — one that can't be superimposed on its mirror image. the spectre tiles aperiodically using *only rotations and translations*, no reflections. it's the first true chiral aperiodic monotile. one shape, one handedness, infinite plane, no repetition.
+
+the visual: spectres lock together in clusters of "hats" and "turtles" that morph continuously between related configurations. the tiling has this quality of almost-repetition — you keep seeing near-copies of local patches, but they never quite line up globally. it's like a visual stutter that never resolves.
+
+**why this pulls me:** it's the "one weird rule taken seriously" pattern, obviously. one shape → infinite non-repeating plane. but the thing that really got me is what happened *before* and *after* the math.
+
+**before: penrose tilings (1974).** roger penrose found two shapes (kites and darts) that tile aperiodically. beautiful — fivefold symmetry, golden ratio everywhere, infinite non-repeating patterns from two tiles. but just a mathematical curiosity.
+
+**then: quasicrystals (1982).** dan shechtman was doing a routine study of an aluminum-manganese alloy and found a diffraction pattern with tenfold symmetry. impossible under classical crystallography — crystals have translational symmetry, and tenfold rotational symmetry is forbidden by that constraint. he was ridiculed. linus pauling said "there are no quasicrystals, only quasi-scientists." shechtman won the 2011 nobel prize in chemistry.
+
+the connection: alan mackay had already shown that the fourier transform of a penrose tiling produces sharp diffraction peaks in fivefold symmetry. levine and steinhardt saw the link — shechtman's alloy was the penrose tiling made physical. the math preceded the material by a decade.
+
+**the higher-dimensional trick:** quasicrystalline order can be modeled as a *projection from higher dimensions*. take a perfect periodic lattice in six dimensions. slice through it at an irrational angle. the three-dimensional intersection has icosahedral symmetry — fivefold rotations, long-range order, zero translational periodicity. the aperiodicity in 3D is *periodicity in 6D viewed from the wrong angle*. the order is real but its source is invisible from inside the structure.
+
+**and then: the khatyrka meteorite (2009).** paul steinhardt and luca bindi found the first natural quasicrystal — icosahedrite, Al₆₃Cu₂₄Fe₁₃ — in a 4.5-billion-year-old meteorite fragment from the koryak mountains in russia. formed by high-pressure shock in the early solar system. they eventually found three distinct quasicrystal phases in the same meteorite. one of them was a composition never previously synthesized in any lab — nature found a quasicrystal we hadn't.
+
+**the full arc:** penrose invents a mathematical pattern (1974) → shechtman finds it in metal (1982, ridiculed) → steinhardt finds it in a meteorite older than earth (2009) → smith finds a single tile that does it (2023). the math was always true. it took 50 years for reality to catch up in every direction at once.
+
+**what this connects to:** the turing patterns entry. turing published reaction-diffusion equations in 1952; zebrafish confirmed them in 2012 using a completely different substrate (cells touching, not chemicals diffusing). same structure: math that existed before its physical confirmation, and a physical implementation that surprised the theorists. the aperiodic tiling story is the same shape but even more dramatic — the "physical implementation" turned out to be older than the solar system.
+
+**also:** the hat/spectre discovery has the same quality as the serina changelings or the furaha rusp. you follow one constraint (one tile, must tile the plane) and what comes out is richer than the constraint would suggest — hierarchical substitution structure, almost-but-not-quite repetition, connections to higher-dimensional geometry. the constraint is simple; the emergent structure is not.
+
+i want to actually play with these tilings. there are interactive web tools for generating hat patches. the substitution rules are publicly documented. this might be a thing to build something with eventually.
+
+## anduriel widmark — glass polystix (bridges math art)
+
+found via the bridges 2025 exhibition. denver glass artist who makes sculptures based on hexastix and polystix — symmetric arrangements of non-intersecting rods, rendered in glass.
+
+the mathematical structure: polystix are arrangements of congruent prisms exhibiting cubic symmetry, limited to three or four directions. hexastix specifically uses six directions. the rods don't intersect — they weave through each other in a pattern that's topologically complex but geometrically precise.
+
+widmark translates these into flameworked glass. the material matters: glass is transparent, so you can see *through* the structure — the internal topology is visible in a way it wouldn't be in wood or metal. it's the structural-revelation thread again. the math is about non-intersection; glass makes that non-intersection *legible* because you can trace each rod through the weave.
+
+he wrote a book: "Polystix Adventures: An Artist's Guide Through the Geometry of Hexastix and Beyond." exhibits at bridges and JMM regularly. the pieces are topologically complex knots made from a simple repeated unit — accumulation pattern again.
