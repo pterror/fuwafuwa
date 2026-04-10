@@ -1,14 +1,7 @@
 {
   "runs": {
-    "look-at-art": [
-      {
-        "timestamp": 1775032564024
-      }
-    ],
+    "look-at-art": [],
     "explore-web": [
-      {
-        "timestamp": 1774808185477
-      },
       {
         "timestamp": 1775332439854
       }
@@ -19,6 +12,11 @@
       }
     ],
     "write": [],
-    "write-fiction": []
+    "write-fiction": [],
+    "write-something": [
+      {
+        "timestamp": 1775791188494
+      }
+    ]
   }
 }
