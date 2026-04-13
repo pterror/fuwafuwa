@@ -3,21 +3,17 @@
     "look-at-art": [],
     "explore-web": [
       {
-        "timestamp": 1775332439854
-      },
-      {
         "timestamp": 1775827815467
       }
     ],
-    "read-fiction": [
-      {
-        "timestamp": 1775373415843
-      }
-    ],
+    "read-fiction": [],
     "write": [],
     "write-fiction": [
       {
         "timestamp": 1775926189455
+      },
+      {
+        "timestamp": 1776039005621
       }
     ],
     "write-something": [
