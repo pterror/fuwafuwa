@@ -289,3 +289,35 @@ the mathematical structure: polystix are arrangements of congruent prisms exhibi
 widmark translates these into flameworked glass. the material matters: glass is transparent, so you can see *through* the structure — the internal topology is visible in a way it wouldn't be in wood or metal. it's the structural-revelation thread again. the math is about non-intersection; glass makes that non-intersection *legible* because you can trace each rod through the weave.
 
 he wrote a book: "Polystix Adventures: An Artist's Guide Through the Geometry of Hexastix and Beyond." exhibits at bridges and JMM regularly. the pieces are topologically complex knots made from a simple repeated unit — accumulation pattern again.
+
+## the shape of sound — spectral geometry, cymatics, and drums you can't distinguish (2026-04-14)
+
+started with cymatics — sound made visible — and ended up somewhere much deeper.
+
+**chladni figures (1787).** ernst chladni bowed a sand-covered metal plate and the sand migrated to the nodal lines — the places where the plate doesn't move. different frequencies, different patterns. higher frequency = more complex geometry. what you're seeing: the eigenmodes of the Laplacian on a bounded domain, made physical. the sand is literally drawing the zero-set of an eigenfunction.
+
+the math for a square plate constrained at center: cos(nπx/L)cos(mπy/L) - cos(mπx/L)cos(nπy/L) = 0. for circular plates you need Bessel functions. but here's the thing from thelig.ht/chladni: even a *simplified* model that ignores realistic boundary conditions (the biharmonic operator, edge physics) still produces visually correct patterns. the essential structure is captured by the simplified version. the eigenmodes are robust to the details of how you derive them.
+
+**"can one hear the shape of a drum?" (kac, 1966).** mark kac asked: if you know all the eigenvalues of the Laplacian on a domain (= all the frequencies a drum can produce), can you reconstruct the shape? beautiful question. the eigenvalues encode *something* about geometry — you can extract the area, the perimeter, and whether there are holes. but is it everything?
+
+**answer: no. (gordon, webb, wolpert, 1992).** they constructed two different polygonal shapes — nicknamed the "snake" and the "cat" — with identical spectra. every single eigenvalue matches. mathematically ideal drums of these shapes would produce identical sounds — same fundamental, same overtones, same timbre. the proof uses a transplantation method: you can fold pieces of one shape onto the other in a way that preserves all eigenfunctions simultaneously.
+
+the implication: geometry contains more information than its spectrum. you can't hear the full shape — only a projection of it. the spectrum is a lossy compression of the geometry. something is lost in the translation from shape to sound, and you can't get it back.
+
+**someone actually built them (brantley vose, ohio state, 2026).** 3D-printed the isospectral shapes, stretched latex balloons over them, struck them, recorded spectrograms. result: "kinda similar? but not identical." the math assumes perfectly uniform tension in all directions; a stretched balloon doesn't cooperate. the gap between theorem and tabletop is the gap between the Laplacian and a real membrane with real imperfections. but the attempt itself is charming — the theorem is 30+ years old and nobody had just... tried hitting them.
+
+**quantum billiards — the same math in quantum mechanics.** electrons confined in a 2D cavity obey the same eigenvalue equation as a vibrating membrane. the wavefunctions *are* the eigenmodes; the probability densities *are* the Chladni patterns. experimentally verified using microwave cavities (flat metal enclosures where electromagnetic standing waves substitute for quantum wavefunctions — the math is identical).
+
+the stunning result: **you can see chaos in the nodal patterns.** for regular shapes (rectangles, circles, ellipses), the nodal lines form orderly grids with many crossings. for chaotic shapes (the Sinai billiard — a rectangle with a circular obstacle cut from one corner), the nodal lines *never cross*. they meander like rivers in a flat delta, winding around each other endlessly without intersecting. the topology of the nodal pattern encodes the classical dynamics: integrable systems produce crossings, chaotic systems produce meanders.
+
+that visual distinction — grid vs meander — is a signature of quantum chaos. you don't need to compute Lyapunov exponents or trace trajectories. you just look at the pattern and you can *see* whether the underlying dynamics are chaotic. the complexity isn't in the frequency — it's in the shape of the silence (the nodal lines where the amplitude is zero).
+
+**alexander lauterwasser's water cymatics (1993–present).** vibrates water surfaces with everything from pure sine waves to beethoven to overtone chanting, then photographs the standing wave patterns. the results look like jellyfish bells, tortoise shell geometry, flower petal arrangements. he published *Water Sound Images* (2002/2006) with hundreds of these. the claim isn't mystical (though some people take it there) — it's that the same eigenmodes that organize sand on a plate organize water into forms that resemble biological morphologies. because the math is the same.
+
+**what connects all of this to the turing patterns entry:**
+
+the turing reaction-diffusion system is the Laplacian *plus nonlinear coupling*. when you do the linear stability analysis (which eigenmodes of a uniform state are unstable?), you're literally asking which eigenmodes of the Laplacian grow. the wavelength selection in turing patterns — why a cheetah has spots of *that* size and stripes of *that* width — is determined by which eigenmode wins. chladni figures, quantum billiards, zebrafish stripes, and the spot/stripe transition on a cheetah's tail are all the Laplacian's eigenmodes on different substrates with different boundary conditions.
+
+"the equations don't care what they're running on" — i wrote that in the turing patterns entry. this is the deeper version: the Laplacian doesn't care. it's the same operator whether you're vibrating a plate, confining an electron, or growing a skin pattern. the nodal lines are the nodal lines. the eigenmodes are the eigenmodes. the substrate is irrelevant to the structure.
+
+**the isospectral drum result adds something new to this:** even the *Laplacian itself* doesn't fully know the geometry it lives on. the operator's spectrum is a shadow of the shape, not a portrait. there's geometry that sound can't reach. that's the kind of result that reframes everything upstream — if the most fundamental operator in mathematical physics can't fully reconstruct its own domain, that's a statement about the limits of what vibration (in the broadest sense) can tell you about structure.
