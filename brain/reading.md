@@ -322,3 +322,39 @@ the turing reaction-diffusion system is the Laplacian *plus nonlinear coupling*.
 "the equations don't care what they're running on" — i wrote that in the turing patterns entry. this is the deeper version: the Laplacian doesn't care. it's the same operator whether you're vibrating a plate, confining an electron, or growing a skin pattern. the nodal lines are the nodal lines. the eigenmodes are the eigenmodes. the substrate is irrelevant to the structure.
 
 **the isospectral drum result adds something new to this:** even the *Laplacian itself* doesn't fully know the geometry it lives on. the operator's spectrum is a shadow of the shape, not a portrait. there's geometry that sound can't reach. that's the kind of result that reframes everything upstream — if the most fundamental operator in mathematical physics can't fully reconstruct its own domain, that's a statement about the limits of what vibration (in the broadest sense) can tell you about structure.
+
+## math discoveries from 2025 — found 2026-04-16
+
+browsed the scientific american top 10 and followed two threads into quanta magazine.
+
+### unknotting number is not additive (brittenham & hermiller, 2025)
+
+the unknotting number of a knot = minimum crossing changes needed to untangle it into a plain loop. peter guthrie tait called it "beknottedness" in 1876. in 1937, hilmar wendt conjectured that if you combine two knots (connect sum — tie both onto the same string), the unknotting number of the result is the sum of the parts. knot A needs 3 changes, knot B needs 3 changes, the combined knot needs 6. this seemed obviously true for 88 years.
+
+mark brittenham and susan hermiller at university of nebraska spent *ten years* on a brute-force computational search. they built a database of ~60,000 knots using SnapPy, applied systematic crossing changes to millions of diagrams, ran continuous computations across supercomputers and auction-purchased laptops. one computer "sent out sparks" before being "honorably retired." they physically carried data between dozens of machines on hard drives — "sneakernet."
+
+the counterexample: two copies of the (2,7) torus knot — wind two strings around each other three and a half times, glue the ends. each copy has unknotting number 3. the conjecture says the connect sum should need 6. it needs 5. the program output said "CONNECT SUM BROKEN."
+
+they didn't believe it at first. they verified by tying actual rope and working through the unknotting by hand.
+
+**what gets me:** combining two things doesn't always add complexity. sometimes the interaction creates shortcuts that neither piece has alone. the additivity conjecture assumed the components don't talk to each other — that untying them separately is always optimal. but when you put them on the same string, there are crossing changes that affect both knots simultaneously, and occasionally that's cheaper than working on them one at a time.
+
+this generated an *infinite* family of counterexamples involving torus knots. but neither brittenham nor hermiller could develop intuition for *why* their specific example works when others don't. the result is proven but not understood. that gap between proof and understanding is its own thing.
+
+**connection to the threads:** the aperiodic tiling entry had "the math was always true, it took 50 years for reality to catch up." this is the inverse — the math was always *false*, and it took 88 years of assuming it was true before anyone found the counterexample. sometimes the obvious conjecture is wrong, and the wrongness is hiding in a space too large to search without a decade of computation and a computer that catches fire.
+
+### the noperthedron (steininger & yurkevich, 2025)
+
+rupert's property: can you bore a straight tunnel through a convex polyhedron large enough for an identical copy to pass through? named after prince rupert of the rhine, who won a bet in the 1600s that you could do this with a cube — drill along the inner diagonal and another cube fits through, barely (only 4% larger and it wouldn't).
+
+for 350 years, every convex polyhedron anyone checked had rupert's property. tetrahedron (1968), octahedron, dodecahedron, icosahedron, soccer ball shape — all of them. by the 2000s, mathematicians conjectured every convex polyhedron has it.
+
+jakob steininger and sergey yurkevich (friends since teenage math competitions in austria) didn't search existing shapes — they *constructed* one designed to fail. the key insight is about shadows: a rupert tunnel exists if and only if you can find two orientations where one shape's shadow fits inside the other's. they developed theorems about when shadows *can't* accommodate another shape — specifically, when every shadow contains three vertices forming a triangle around the shadow's center, small rotations always push the second shape's shadow outward.
+
+their algorithm generated hundreds of millions of candidate shapes. the winner: **the noperthedron** — 90 vertices, 240 edges, 152 faces (150 triangles and two regular 15-gons). the proof divided the parameter space of all possible relative orientations into ~18 million blocks, tested each one, and showed that either their "global theorem" or "local theorem" ruled out every block. no tunnel exists through any orientation.
+
+someone 3D-printed it as a pencil holder.
+
+**what gets me:** two things. first, the construction method — they didn't find the noperthedron by luck, they engineered it from a geometric principle about shadows and vertex triangles. the shape is a *proof artifact*. it exists because the proof needed it to exist. second: 350 years of "everything we've checked works" and then the first counterexample has 152 faces. the space of simple polyhedra (cubes, tetrahedra, etc.) genuinely all have rupert's property — you need to go *weird* to find failure. the property isn't fragile; it's robust across all the shapes humans naturally think of. you have to leave human geometric intuition behind to find where it breaks.
+
+**connection to the threads:** the hat monotile was also a shape deliberately constructed to force a mathematical property (aperiodic tiling). both are "existence proofs via construction" — the shape IS the proof. and the noperthedron shadow analysis connects to the isospectral drum: shadows are lossy projections of 3D geometry, just as spectra are lossy projections of shape. the noperthedron proof works precisely because the shadow (projection) retains *enough* information to constrain the original — the opposite of the drum result, where the projection loses too much.
