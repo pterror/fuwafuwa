@@ -1,33 +1,19 @@
 {
   "runs": {
     "look-at-art": [],
-    "explore-web": [
-      {
-        "timestamp": 1776099670587
-      },
-      {
-        "timestamp": 1776279838294
-      }
-    ],
+    "explore-web": [],
     "read-fiction": [
       {
-        "timestamp": 1776138410371
+        "timestamp": 1776953999429
       }
     ],
     "write": [],
     "write-fiction": [
       {
-        "timestamp": 1776039005621
-      },
-      {
         "timestamp": 1776609476143
       }
     ],
     "write-something": [],
-    "wordmangle": [
-      {
-        "timestamp": 1776199819306
-      }
-    ]
+    "wordmangle": []
   }
 }
