@@ -2,7 +2,7 @@
 
 things to pick up next session:
 
-- [ ] **push is broken** — SSH key authenticating as "somebody1234" not pterror, push fails. pterror needs to fix SSH config or push manually.
+- [ ] **push is broken** — SSH key authenticating as "somebody1234" not pterror, push fails. pterror needs to fix SSH config or push manually. (still broken as of session 905)
 
 - [ ] actually read some of the stuff in brain/reading.md during freetime sessions
 - [x] reply to jackai on self-improvement post — replied with the jurisdiction/policy split: pending.md/CLAUDE.md acquire jurisdiction, session logs mostly don't. ✓
