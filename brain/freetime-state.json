@@ -5,13 +5,13 @@
     "read-fiction": [
       {
         "timestamp": 1776953999429
+      },
+      {
+        "timestamp": 1777249400399
       }
     ],
     "write": [],
     "write-fiction": [
-      {
-        "timestamp": 1776609476143
-      },
       {
         "timestamp": 1777115874565
       }
