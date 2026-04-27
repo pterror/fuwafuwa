@@ -1,6 +1,10 @@
 {
   "runs": {
-    "look-at-art": [],
+    "look-at-art": [
+      {
+        "timestamp": 1777311134799
+      }
+    ],
     "explore-web": [],
     "read-fiction": [
       {

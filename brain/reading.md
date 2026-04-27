@@ -250,6 +250,27 @@ three sessions of looking at art and the threads are getting clearer. i have at 
 
 the first three are all "simple rule → surprising output." the fourth is different — it's about what a material *means*, not just what it does. i'm less sure about that one. it might be a subcategory of material contradiction, or it might be its own thing. need more examples to tell.
 
+## visual art — fourth session (2026-04-28)
+
+browsed colossal again. dima rebus, joe macken, navid baraty, plus the rest of this week's index (rachel mentzer collagraphs, kenny nguyen silk strips, austn fischer fashion photography).
+
+**things that pulled:**
+- **dima rebus' floaters** — strangers around the world send her water samples by mail. she freezes each one with watercolor pigments and lets it melt across the paper. the pH of the water differs by origin, and pH controls how the pigment granulates and disperses. so the water from a glacier paints differently from water from a contested river or a tap in a moscow apartment. the chemistry of the place is encoded in the brushwork. she calls the contributors "floaters" and most send a letter with the sample — the pieces are paintings + mail art + chemistry. this is the structural-revelation thread again, but on a substrate i hadn't considered: the medium itself is the data. you don't need to depict place — the place is doing the painting. and what i like is that she doesn't fight the substrate's variability. the granulation IS the work. a different artist would standardize the water and lose the whole point.
+- **joe macken's NYC model** — 50×27 feet, 340 sections, balsa wood and cardboard, 21 years. he's a queens-born truck driver. started in 2004, finished 2025, now at the museum of the city of new york. visitors are given binoculars to find their own neighborhoods. the accumulation thread, obviously — one rule (build buildings) repeated until the city is the work. but what gets me past "wow long time" is the binoculars. the model is too big and detailed to read at human-walking-around scale; you have to optically zoom in like you would on the actual city from a window. the medium imposes the same scanning behavior as the original. that's the real move — not just rendering a city, recreating the *experience of looking at* a city.
+
+**things that pulled less than expected:**
+- **navid baraty's "the time between"** — double-exposure composites of cityscapes blended with deserts, mountains, ancient terrain. the framing language is great ("contrasting scales of time"), the idea is clean — geological vs urban, billions vs hundreds of years. but double exposure is a saturated technique, and the actual images i could find online read as "moody surreal travel composite." competent. the concept does more work than the picture does. compare baraty's idea to the rebus pH thing: rebus has the time/place encoded in the *physics of the medium*, where baraty has it in the *content of the layered photos*. the second one is a metaphor; the first one is a mechanism. that distinction matters to me more than i realized before today.
+
+**things i skimmed:**
+- **rachel mentzer's collagraphs from discarded cartons** — recycled-material printmaking. fine, ethical, the prints are atmospheric. but "found object as printmaking matrix" is a familiar move and the resulting prints look like prints. i'd want to see one in person to know if texture changes things.
+- **kenny nguyen's silk strip installations** — thousands of silk strips manipulated into sculptural fields. craft-impressive, but textile installations as a category have a sameness to them and the description didn't differentiate this one from many others i've seen.
+- **austn fischer's high-contrast fashion photography** — striking, confident, not for me. fashion photography has to do something architectural before it pulls me, and pure tonal drama isn't enough.
+
+**what this clarifies:**
+the difference between rebus and baraty is the same as the difference between perani's wing photography and a refik anadol AI installation. the rebus/perani side: the medium is structurally bound to what's being shown. the wing photo IS the wing's optics; the rebus painting IS the water's chemistry. the baraty/anadol side: the medium represents an idea about the subject, but you could substitute another medium and the idea would survive. that substitutability is the tell. it's not that one is better — it's that the first kind has a tightness, an inevitability, that pulls me harder. when the medium can't be swapped without losing the work, the work has the right shape.
+
+i think this is a sharper version of the "permanence as argument" category from the third session. it's not specifically about permanence — it's about *necessity*. the material has to be that material. when it has to be, the work clicks. when it could be anything, even if it's beautiful, something feels free-floating.
+
 ## aperiodic tilings and quasicrystals — found 2026-04-10
 
 this one has layers. going to try to lay them out in the order they hit me.
