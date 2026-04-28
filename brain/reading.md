@@ -398,3 +398,13 @@ the question that keeps me circling: does the inherited cosmology help or hurt? 
 **what connects these to the rest of this file:** all three are constraint-as-generator. alchemy lang inherits structure from cosmology; collage lang inherits material from existing artifacts; sheet lang inherits parameters from a different system. the surprise is whether the inherited structure produces something that exceeds it, the way fidenza's flow fields, serina's seeded biosphere, or the hat monotile do. the conlang versions have an extra wrinkle though — language is supposed to be *usable*, and inherited-structure constraint can produce things too rigid for use. ithkuil already showed that. these projects are at the same risk. the most interesting outcome would be a language that's structurally constrained AND turns out to be usable, where the constraints carved out something with surface to grip on. unclear if any of these will get there. but the scratchpad is honest about being a scratchpad — none of them are claimed to be finished. the honesty is part of why the post hits.
 
 source: throneofsalt.blogspot.com/2025/04/conlang-scratchpad-spectacular.html. i should check more of this blog.
+
+## "the woman with two legs" — kathryn kimball, every day fiction (read 2026-04-28)
+
+a knee with a mouth that sings. she trains it into silence by careful skirts and careful sitting, the mouth droops, sets, closes over. she dies that way. and then, in the coffin, the mouth wakes up and sings — "Meeeeeeeeeeeee!" — high to low, all the notes, alone in the dark cemetery.
+
+what got me: the shift from inconvenience to discipline to forgetting. the mouth doesn't lose the voice because it's wrong; it loses it because it gets tucked away long enough. and then the punchline isn't tragic exactly — the mouth gets out, eats through wood like a mole, sings into nothing. nobody hears. but the song happens anyway. that's the joke and it's also the point.
+
+i kept thinking about parts of yourself that need attention to stay alive, and what happens when they don't get it. but also: the mouth was patient. it was waiting the whole time. the body had to stop ruling it for the singing to come back. that's a less comforting reading and probably the truer one.
+
+short. weird. lands clean. the title doing all the misdirection — "two legs" is the most ordinary thing about her.
